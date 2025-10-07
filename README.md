@@ -1,5 +1,4 @@
 # RCOS-Fall2025
-theme: jekyll-theme-minimal
 
 Conan
 

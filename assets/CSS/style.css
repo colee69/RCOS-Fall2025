@@ -11,6 +11,8 @@
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
+<p style="color: blue; font-size: 1.2em;">This is a paragraph with inline styles.</p> 
+
 /* Add this to the bottom of your main.scss file */
 h1, h2, h3 {
   font-family: 'Georgia', serif;

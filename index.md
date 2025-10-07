@@ -4,5 +4,5 @@ Hello, and thanks for visiting. This is the main page of my website, built with 
 
 Check out more details about this project in the [About Me](about.md).
 
-My favorite page: [Link](google.com)
+My favorite page: [Go to Google](https://www.google.com)
 

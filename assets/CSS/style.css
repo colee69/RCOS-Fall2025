@@ -1,5 +1,5 @@
 /* assets/css/style.css */
-.button {
+/*.button {
   background-color: #3498db;
   color: white;
   padding: 10px 20px;
@@ -11,10 +11,10 @@
 
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-<p style="color: blue; font-size: 1.2em;">This is a paragraph with inline styles.</p> 
+<p style="color: blue; font-size: 1.2em;">This is a paragraph with inline styles.</p> */
 
 /* Add this to the bottom of your main.scss file */
-h1, h2, h3 {
+/*h1, h2, h3 {
   font-family: 'Georgia', serif;
   color: #2c3e50;
 }
@@ -26,4 +26,4 @@ p {
 
 .site-title {
   font-weight: bold;
-}
+}*/

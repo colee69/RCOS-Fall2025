@@ -1,4 +1,4 @@
-# Welcome to My GitHub Pages Website!
+# Welcome to My GitHub Website!
 
 Hello, and thanks for visiting. This is the main page of my website, built with Jekyll and hosted on GitHub Pages.
 

@@ -1,3 +1,9 @@
-#theme: jekyll-theme-minimal
-#title: My GitHub Pages Site
-#description: A cool website for my projects.
+theme: jekyll-theme-minimal
+title: My GitHub Site
+description: A cool website for my projects.
+sidebar:
+  - label: Section One
+    children:
+      - document-one
+      - document-two
+      - document-three

@@ -1,5 +1,5 @@
 /* Changes the color of all main headings to grey */
-h1 {
+body {
   color: #FFC0CB;
 }
 

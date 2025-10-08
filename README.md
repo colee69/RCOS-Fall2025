@@ -6,4 +6,5 @@ My github page is live: [Website](https://colee69.github.io/RCOS-Fall2025/)
 
 CSS Features Added
 * Added and customize an image 
-* Change the color of all <body> to black
+* Change the color of text to black
+* Centered all text and images

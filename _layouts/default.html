@@ -13,6 +13,19 @@
     {% include head-custom.html %}
   </head>
   <body>
+     <!-- Side navigation -->
+    <div class="sidenav">
+      <a href="#">About</a>
+      <a href="#">Services</a>
+      <a href="#">Clients</a>
+      <a href="#">Contact</a>
+    </div>
+    
+    <!-- Page content -->
+    <div class="main">
+      ...
+    </div> 
+    
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>

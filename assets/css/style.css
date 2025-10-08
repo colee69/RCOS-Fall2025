@@ -9,3 +9,7 @@ img {
   max-width: 50%;
   height: 25%;
 }
+
+h1 { 
+  text-shadow: 2px 2px 4px #000000;
+}

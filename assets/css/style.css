@@ -1,6 +1,7 @@
 /* Changes the color of all main headings to black */
 body {
   color: #000000;
+  text-align: center;
 }
 
 /*Image customization*/
@@ -11,5 +12,5 @@ img {
 }
 
 p { 
-  text-shadow: 2px 2px 4px #000000;
+  text-align: center;
 }

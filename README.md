@@ -2,7 +2,7 @@
 
 <u>Website Link</u>
 
-[Website](https://colee69.github.io/RCOS-Fall2025/)
+My github page is live: [Website](https://colee69.github.io/RCOS-Fall2025/)
 
 CSS Features Added
 * Added and customize an image 

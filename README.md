@@ -1,8 +1,8 @@
 # RCOS-Fall2025
 
-<u># Website Link</u>
+<u>Website Link</u>
 [Website](https://colee69.github.io/RCOS-Fall2025/)
 
-#C SS Features Added
+CSS Features Added
 * Added and customize an image 
 * Change the color of all <body> to black

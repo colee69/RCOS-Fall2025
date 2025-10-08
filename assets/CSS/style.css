@@ -1,1 +1,4 @@
-
+/* Changes the color of all main headings to grey */
+h1 {
+  color: #808080;
+}

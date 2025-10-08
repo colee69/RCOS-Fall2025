@@ -1,9 +1,8 @@
 # RCOS-Fall2025
 
-Conan
+##Website Link
+[Website](https://colee69.github.io/RCOS-Fall2025/)
 
-<img width="1187" height="1193" alt="Image" src="https://github.com/user-attachments/assets/5d8f6753-aec2-461a-bca1-cb330053bd3a" />
-
-May 2026
-
-Project Name: Wind Tempo
+#CSS Features Added
+* Added and customize an image 
+* Change the color of all <body> to black

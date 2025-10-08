@@ -1,11 +1,11 @@
-/* Changes the color of all main headings to grey */
+/* Changes the color of all main headings to black */
 body {
-  color: #FFC0CB;
+  color: #000000;
 }
 
 /*Image customization*/
 img {
   border-radius: 8px;
-  max-width: 100%;
-  height: 50%;
+  max-width: 50%;
+  height: 25%;
 }
